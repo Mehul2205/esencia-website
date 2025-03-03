@@ -8,7 +8,7 @@ const Home = () => {
             <section className="mt-8">
                 <h2 className="text-2xl font-semibold">Our Products</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
-                    <ProductCard name="Refexo" desc="Fexofenadine HCL Tablets" />
+                    <ProductCard name="Hello World Refexo" desc="Fexofenadine HCL Tablets" />
                     <ProductCard name="Azomin 500" desc="Azithromycin Tablets IP 500 mg" />
                     <ProductCard name="Clopivax 75" desc="Clopidogrel Tablets IP 75 mg" />
                 </div>
