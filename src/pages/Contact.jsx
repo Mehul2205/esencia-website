@@ -66,20 +66,20 @@ const Contact = () => {
 {/*                             <div class="grid grid-cols-1 md:grid-cols-2 gap-4"> */}
                                 <div class="mt-4 relative">
                                     <i class="ph ph-user text-gray-500 absolute left-3 top-1/2 transform -translate-y-1/2"></i>
-                                    <input type="text" placeholder="Your Name" class="w-full p-3 pl-5 border rounded-lg focus:outline-none"/>
+                                    <input type="text" placeholder="Your Name" class="w-full p-3 pl-5 border rounded focus:outline-none"/>
 {/*                                 </div> */}
                                 <div class="mt-4 relative">
                                     <i class="ph ph-envelope text-gray-500 absolute left-3 top-1/2 transform -translate-y-1/2"></i>
-                                    <input type="email" placeholder="Your Email" class="w-full p-3 pl-5 border rounded-lg focus:outline-none"/>
+                                    <input type="email" placeholder="Your Email" class="w-full p-3 pl-5 border rounded focus:outline-none"/>
                                 </div>
                             </div>
                             <div class="mt-4 relative">
                                 <i class="ph ph-phone text-gray-500 absolute left-3 top-1/2 transform -translate-y-1/2"></i>
-                                <input type="text" placeholder="Phone Number" class="w-full p-3 pl-5 border rounded-lg focus:outline-none"/>
+                                <input type="text" placeholder="Phone Number" class="w-full p-3 pl-5 border rounded focus:outline-none"/>
                             </div>
                             <div class="mt-4 relative">
                                 <i class="ph ph-pencil text-gray-500 absolute left-3 top-4"></i>
-                                <textarea placeholder="Message" class="w-full p-3 pl-5 border rounded-lg focus:outline-none"></textarea>
+                                <textarea placeholder="Message" class="w-full p-3 pl-5 border rounded focus:outline-none"></textarea>
                             </div>
                             <button class="mt-4 w-full bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 flex items-center justify-center gap-2">
                                 <i class="ph ph-paper-plane"></i> Send Message
